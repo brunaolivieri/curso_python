@@ -1,0 +1,49 @@
+31/01/24 - quarta-feira
+
+variável - reserva um espaço na memória para armazenar um dado.
+
+
+05/02/2024 - segunda-feira
+
+entrada - processamento - saída
+
+entrada - teclado, pendrive, internet, microfone, câmera, leitor biométrico (fingerprint), etc.
+saída - monitor, auto-falante, impressora, etc.
+
+
+Uma variável pode ter até 256 caratecteres.
+O nome de uma variável no python deve começar com letra maiúscula ou minúscula ou pelo símbolo underscore "_".
+Exemplo: salario_do_funcionario
+SalarioDoFuncionario (camel case)
+
+
+Tipagem de variáveis
+
+Numéricos: inteiros ou ponto flutuante (decimais) - 234, 1345, 2... (inteiro)|  2.45, 56.9987... (ponto flutuante - decimal)
+Texto: qualquer tipo de caractere
+Lógicos: True ou False (booleanos)
+
+Linguagem de programação brasileira: Lua (mais utilizada no desenvolvimento de jogos). PUC-Rio.
+
+Exercícios: cálculo de IMC e cálculo de média.
+
+ctrl + espaço = preenchimento automático.
+
+
+07/02/2024
+
+Exercício - consumo de combustível
+
+Antes de começar programar é necessário entender o problema.
+
+
+
+ 
+
+
+
+
+
+
+
+
