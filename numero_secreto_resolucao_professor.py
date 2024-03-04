@@ -1,0 +1,20 @@
+numero_secreto = 58
+tentativas = 3
+rodada = 1
+
+while rodada <= tentativas:
+
+    print(f"Tentativa {rodada}")
+
+    escolha = int(input("Qual o número secreto? "))
+
+    if escolha == numero_secreto:
+        print("Parabéns, você acertou.")
+        break
+
+    rodada = rodada + 1
+
+    if rodada > tentativas:
+        print("Tentativas esgotadas. Você perdeu.")
+
+print("FIM.")
